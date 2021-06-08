@@ -1,0 +1,3 @@
+C:/GitProjects/LuaSourceCodeNote/cmake-build-debug/CMakeFiles/LuaSourceCodeNote.dir
+C:/GitProjects/LuaSourceCodeNote/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitProjects/LuaSourceCodeNote/cmake-build-debug/CMakeFiles/rebuild_cache.dir

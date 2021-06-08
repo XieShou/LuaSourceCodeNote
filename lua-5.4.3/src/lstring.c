@@ -34,20 +34,20 @@
 int luaS_eqlngstr (TString *a, TString *b) {
   size_t len = a->u.lnglen;
   lua_assert(a->tt == LUA_VLNGSTR && b->tt == LUA_VLNGSTR);
-  return (a == b) ||  /* same instance or... */
-    ((len == b->u.lnglen) &&  /* equal length and ... */
-     (memcmp(getstr(a), getstr(b), len) == 0));  /* equal contents */
+  return (a == b) ||  /* same instance or... *//*引用*/
+    ((len == b->u.lnglen) &&  /* equal length and ... *//*长度*/
+     (memcmp(getstr(a), getstr(b), len) == 0));  /* equal contents *//*内容*/
 }
 
-
+/*字符串算哈希值*/
 unsigned int luaS_hash (const char *str, size_t l, unsigned int seed) {
-  unsigned int h = seed ^ cast_uint(l);
+  unsigned int h = seed ^ cast_uint(l);/*异或*/
   for (; l > 0; l--)
-    h ^= ((h<<5) + (h>>2) + cast_byte(str[l - 1]));
+    h ^= ((h<<5) + (h>>2) + cast_byte(str[l - 1]));/*按位异或且赋值运算符*/
   return h;
 }
 
-
+/*取一个字符串的hash*/
 unsigned int luaS_hashlongstr (TString *ts) {
   lua_assert(ts->tt == LUA_VLNGSTR);
   if (ts->extra == 0) {  /* no hash? */

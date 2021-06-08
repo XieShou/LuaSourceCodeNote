@@ -16,7 +16,7 @@
 
 3. 取消预编译头!
    
-   ![](C:\Users\XieShou\AppData\Roaming\marktext\images\2021-06-08-22-43-13-image.png)
+   ![](Images\2021-06-08-22-43-13-image.png)
 
 4. 将源代码分别托给三个项目，按照如下规则**移除**对应文件：
    
@@ -28,8 +28,12 @@
 
 5. 编译，工程目录和结果如下：
    
-   ![](C:\Users\XieShou\AppData\Roaming\marktext\images\2021-06-08-22-48-34-image.png)![](C:\Users\XieShou\AppData\Roaming\marktext\images\2021-06-08-22-48-25-image.png)
+   ![](Images\2021-06-08-22-48-34-image.png)![](Images\2021-06-08-22-48-25-image.png)
 
+## 运行
 
+使用IDEA系列软件，在根文件夹创建Lua工程，按照如下配置即可：
 
+![](Images\2021-06-08-23-24-11-image.png)
 
+可以通过配置多个Debug选项，实现替换不同Lua版本。

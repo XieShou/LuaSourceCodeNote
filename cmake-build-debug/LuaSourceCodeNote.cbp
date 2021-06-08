@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LuaSourceCodeNote"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LuaSourceCodeNote">
+				<Option output="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug/LuaSourceCodeNote.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 LuaSourceCodeNote"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LuaSourceCodeNote/fast">
+				<Option output="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug/LuaSourceCodeNote.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 LuaSourceCodeNote/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/GitProjects/LuaSourceCodeNote/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/Makefile">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lapi.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lapi.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lauxlib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lauxlib.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lbaselib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lcode.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lcode.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lcorolib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lctype.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lctype.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldblib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldebug.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldebug.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldo.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldo.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ldump.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lfunc.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lfunc.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lgc.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lgc.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/linit.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/liolib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ljumptab.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/llex.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/llex.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/llimits.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lmathlib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lmem.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lmem.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/loadlib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lobject.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lobject.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lopcodes.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lopcodes.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lopnames.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/loslib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lparser.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lparser.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lprefix.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lstate.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lstate.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lstring.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lstring.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lstrlib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ltable.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ltable.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ltablib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ltm.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/ltm.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lua.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lua.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lua.hpp">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/luac.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/luaconf.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lualib.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lundump.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lundump.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lutf8lib.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lvm.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lvm.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lzio.c">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/lua-5.4.3/src/lzio.h">
+			<Option target="LuaSourceCodeNote"/>
+		</Unit>
+		<Unit filename="C:/GitProjects/LuaSourceCodeNote/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

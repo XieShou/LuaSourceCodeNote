@@ -368,11 +368,11 @@ typedef struct GCObject {
 
 
 /*
-** Header for a string value.
+** Header for a string value. string类型的头定义
 */
 typedef struct TString {
   CommonHeader;
-  lu_byte extra;  /* reserved words for short strings; "has hash" for longs */
+  lu_byte extra;  /* reserved words for short strings; "has hash" for longs *//*值=1时标识有hash*/
   lu_byte shrlen;  /* length for short strings */
   unsigned int hash;
   union {
