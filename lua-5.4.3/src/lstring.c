@@ -29,7 +29,7 @@
 
 
 /*
-** ÅÐ¶Ï×Ö·û´®ÊÇ·ñÏàµÈ
+** ÅÐ¶Ï³¤×Ö·û´®ÊÇ·ñÏàµÈ
 */
 int luaS_eqlngstr (TString *a, TString *b) {
   size_t len = a->u.lnglen;
