@@ -63,646 +63,646 @@ include CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.obj: ..\lua-5.4.3\src\lapi.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lapi.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lapi.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lapi.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lapi.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lapi.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lapi.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lapi.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.obj: ..\lua-5.4.3\src\lauxlib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lauxlib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lauxlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lauxlib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lauxlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lauxlib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lauxlib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lauxlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.obj: ..\lua-5.4.3\src\lbaselib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lbaselib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lbaselib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lbaselib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lbaselib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lbaselib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lbaselib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lbaselib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.obj: ..\lua-5.4.3\src\lcode.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcode.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcode.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcode.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcode.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcode.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcode.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcode.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.obj: ..\lua-5.4.3\src\lcorolib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcorolib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcorolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcorolib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcorolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lcorolib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lcorolib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lcorolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.obj: ..\lua-5.4.3\src\lctype.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lctype.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lctype.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lctype.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lctype.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lctype.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lctype.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lctype.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.obj: ..\lua-5.4.3\src\ldblib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldblib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldblib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldblib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldblib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldblib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldblib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldblib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.obj: ..\lua-5.4.3\src\ldebug.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldebug.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldebug.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldebug.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldebug.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldebug.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldebug.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldebug.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.obj: ..\lua-5.4.3\src\ldo.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldo.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldo.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldo.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldo.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldo.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldo.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldo.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.obj: ..\lua-5.4.3\src\ldump.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldump.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldump.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ldump.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ldump.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ldump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.obj: ..\lua-5.4.3\src\lfunc.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lfunc.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lfunc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lfunc.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lfunc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lfunc.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lfunc.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lfunc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.obj: ..\lua-5.4.3\src\lgc.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lgc.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lgc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lgc.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lgc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lgc.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lgc.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lgc.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.obj: ..\lua-5.4.3\src\linit.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/linit.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\linit.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/linit.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\linit.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/linit.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\linit.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\linit.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.obj: ..\lua-5.4.3\src\liolib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/liolib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\liolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/liolib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\liolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/liolib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\liolib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\liolib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.obj: ..\lua-5.4.3\src\llex.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/llex.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\llex.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/llex.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\llex.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/llex.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\llex.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\llex.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.obj: ..\lua-5.4.3\src\lmathlib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmathlib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmathlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmathlib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmathlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmathlib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmathlib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmathlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.obj: ..\lua-5.4.3\src\lmem.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmem.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmem.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmem.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmem.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lmem.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lmem.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lmem.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.obj: ..\lua-5.4.3\src\loadlib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loadlib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loadlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loadlib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loadlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loadlib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loadlib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loadlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.obj: ..\lua-5.4.3\src\lobject.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lobject.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lobject.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lobject.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lobject.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lobject.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lobject.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lobject.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.obj: ..\lua-5.4.3\src\lopcodes.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lopcodes.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lopcodes.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lopcodes.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lopcodes.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lopcodes.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lopcodes.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lopcodes.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.obj: ..\lua-5.4.3\src\loslib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loslib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loslib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loslib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loslib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/loslib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\loslib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\loslib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.obj: ..\lua-5.4.3\src\lparser.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lparser.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lparser.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lparser.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lparser.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lparser.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lparser.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lparser.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.obj: ..\lua-5.4.3\src\lstate.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstate.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstate.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstate.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstate.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstate.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstate.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstate.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.obj: ..\lua-5.4.3\src\lstring.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstring.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstring.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstring.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstring.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstring.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstring.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstring.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.obj: ..\lua-5.4.3\src\lstrlib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstrlib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstrlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstrlib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstrlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lstrlib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lstrlib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lstrlib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.obj: ..\lua-5.4.3\src\ltable.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltable.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltable.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltable.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltable.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltable.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltable.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltable.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.obj: ..\lua-5.4.3\src\ltablib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltablib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltablib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltablib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltablib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltablib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltablib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltablib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.obj: ..\lua-5.4.3\src\ltm.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltm.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltm.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/ltm.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\ltm.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\ltm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.obj: ..\lua-5.4.3\src\lua.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lua.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lua.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lua.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lua.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lua.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lua.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lua.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.obj: ..\lua-5.4.3\src\luac.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/luac.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\luac.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/luac.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\luac.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/luac.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\luac.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\luac.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.obj: ..\lua-5.4.3\src\lundump.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lundump.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lundump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lundump.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lundump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lundump.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lundump.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lundump.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.obj: ..\lua-5.4.3\src\lutf8lib.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lutf8lib.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lutf8lib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lutf8lib.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lutf8lib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lutf8lib.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lutf8lib.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lutf8lib.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.obj: ..\lua-5.4.3\src\lvm.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lvm.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lvm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lvm.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lvm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lvm.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lvm.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lvm.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.obj: CMakeFiles\LuaSourceCodeNote.dir\flags.make
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.obj: ..\lua-5.4.3\src\lzio.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lzio.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.obj /FdCMakeFiles\LuaSourceCodeNote.dir\ /FS -c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lzio.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lzio.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.i @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.i @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lzio.c
 <<
 
 CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LuaSourceCodeNote.dir/lua-5.4.3/src/lzio.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.s /c C:\GitProjects\LuaSourceCodeNote\lua-5.4.3\src\lzio.c
 <<
 
@@ -783,7 +783,7 @@ LuaSourceCodeNote.exe: CMakeFiles\LuaSourceCodeNote.dir\lua-5.4.3\src\lzio.c.obj
 LuaSourceCodeNote.exe: CMakeFiles\LuaSourceCodeNote.dir\build.make
 LuaSourceCodeNote.exe: CMakeFiles\LuaSourceCodeNote.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking C executable LuaSourceCodeNote.exe"
-	"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\LuaSourceCodeNote.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\LuaSourceCodeNote.dir\objects1.rsp @<<
+	"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\LuaSourceCodeNote.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\LuaSourceCodeNote.dir\objects1.rsp @<<
  /out:LuaSourceCodeNote.exe /implib:LuaSourceCodeNote.lib /pdb:C:\GitProjects\LuaSourceCodeNote\cmake-build-debug\LuaSourceCodeNote.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 

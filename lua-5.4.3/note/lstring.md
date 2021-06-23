@@ -23,8 +23,8 @@
 
 4. 测试短字符串是否相等
    
-   ```lua
-   #define eqshrstr(a,b)	check_exp((a)->tt == LUA_VSHRSTR, (a) == (b))
+   ```c
+   #define eqshrstr(a,b)    check_exp((a)->tt == LUA_VSHRSTR, (a) == (b))
    ```
 
 ## *lstring.c*
@@ -34,5 +34,3 @@
    ```c
    int luaS_eqlngstr (TString *a, TString *b) { }
    ```
-
-
