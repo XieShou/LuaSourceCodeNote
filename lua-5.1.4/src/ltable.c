@@ -218,7 +218,7 @@ static int countint (const TValue *key, int *nums) {
     return 0;
 }
 
-
+/*数组部分大小*/
 static int numusearray (const Table *t, int *nums) {
   int lg;
   int ttlg;  /* 2^lg */
@@ -243,7 +243,7 @@ static int numusearray (const Table *t, int *nums) {
   return ause;
 }
 
-
+/*哈希部分大小*/
 static int numusehash (const Table *t, int *nums, int *pnasize) {
   int totaluse = 0;  /* total number of elements */
   int ause = 0;  /* summation of `nums' */
