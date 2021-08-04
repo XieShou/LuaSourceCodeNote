@@ -158,7 +158,7 @@ static int findindex (lua_State *L, Table *t, StkId key) {
   }
 }
 
-
+/* 迭代器，分数组部分和Hash部分 */
 int luaH_next (lua_State *L, Table *t, StkId key) {
   int i = findindex(L, t, key);  /* find original element */
   for (i++; i < t->sizearray; i++) {  /* try first array part */
