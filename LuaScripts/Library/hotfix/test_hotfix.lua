@@ -1,0 +1,16 @@
+local HotfixClass1 = require("Library/hotfix/HotfixClass1")
+local HotfixClass2 = require("Library/hotfix/HotfixClass2")
+local inst1 = HotfixClass1.New()
+local inst2 = HotfixClass2.New()
+local old1 = tostring(inst1.Init)
+local old2 = tostring(inst2.Init)
+print("---------------")
+require("Library/hotfix/test_hotfix_fix")
+
+local inst3 = HotfixClass1.New()
+local inst4 = HotfixClass2.New()
+local new1 = tostring(inst3.Init)
+local new2 = tostring(inst4.Init)
+
+print(old1, old2)
+print(new1, new2)
